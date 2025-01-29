@@ -10,3 +10,5 @@
 lamiawrites/lamiawrites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Tech Writer](https://img.shields.io/badge/Technical%20Writer-%F0%9F%93%9A-blue)
+![Markdown](https://img.shields.io/badge/Markdown-%F0%9F%92%AF-lightgrey)
